@@ -43,7 +43,7 @@ module tb ();
   .ena    (ena),
   .clk    (clk),
   .rst_n  (rst_n)
-);
+
   );
 
 endmodule
